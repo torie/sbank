@@ -27,9 +27,7 @@
 
 [[constraint]]
   name = "golang.org/x/oauth2"
-  branch = "broken-auth"
-  source = "github.com/torie/oauth2"
-
+  branch = "master"
 
 [prune]
   go-tests = true
